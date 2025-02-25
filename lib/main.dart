@@ -51,7 +51,7 @@ class _DragDropImageWebState extends State<DragDropImageWeb> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Drag & Drop Image in Flutter Web")),
+      appBar: AppBar(title: const Text("Drag & Drop Image")),
       body: Center(
         child: Container(
           width: 300,
